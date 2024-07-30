@@ -1,5 +1,3 @@
-
-
 public class FindPivotIndex {
     public int pivotIndex(int[] nums) {
         int i = 1;
