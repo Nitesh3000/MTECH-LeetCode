@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Problem2053",
+            "request": "launch",
+            "mainClass": "Problem2053",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AverageSalaryExcludingtheMinimumandMaximumSalary",
+            "request": "launch",
+            "mainClass": "AverageSalaryExcludingtheMinimumandMaximumSalary",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "CountGoodTriplets",
+            "request": "launch",
+            "mainClass": "CountGoodTriplets",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "DestinationCity",
+            "request": "launch",
+            "mainClass": "DestinationCity",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "FaultyKeyboard",
+            "request": "launch",
+            "mainClass": "FaultyKeyboard",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "FindPivotIndex",
+            "request": "launch",
+            "mainClass": "FindPivotIndex",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "IncreasingArray",
+            "request": "launch",
+            "mainClass": "IncreasingArray",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "MostCommonWord",
+            "request": "launch",
+            "mainClass": "MostCommonWord",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "Problem1460",
+            "request": "launch",
+            "mainClass": "Problem1460",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "Problem1508",
+            "request": "launch",
+            "mainClass": "Problem1508",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "Problem3216",
+            "request": "launch",
+            "mainClass": "Problem3216",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "RangeSumofBST",
+            "request": "launch",
+            "mainClass": "RangeSumofBST",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDigitFromNumberToMaximizeResult",
+            "request": "launch",
+            "mainClass": "RemoveDigitFromNumberToMaximizeResult",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringII",
+            "request": "launch",
+            "mainClass": "ReverseStringII",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "SortArraybyIncreasingFrequency",
+            "request": "launch",
+            "mainClass": "SortArraybyIncreasingFrequency",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "SortThePeople",
+            "request": "launch",
+            "mainClass": "SortThePeople",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "SpecialCharacters",
+            "request": "launch",
+            "mainClass": "SpecialCharacters",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "UniqueTripletsInArray",
+            "request": "launch",
+            "mainClass": "UniqueTripletsInArray",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "ValidMatrix1605",
+            "request": "launch",
+            "mainClass": "ValidMatrix1605",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "isAnargam",
+            "request": "launch",
+            "mainClass": "isAnargam",
+            "projectName": "LeetCode-Github_e671e181"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "LeetCode-Github_e671e181"
+        }
+    ]
+}

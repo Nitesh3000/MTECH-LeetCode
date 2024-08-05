@@ -29,7 +29,7 @@ public class Problem1460 {
             arr[j] = temp;
             i++;
             j--;
-        }
+        } 
         return arr;
     }
 
